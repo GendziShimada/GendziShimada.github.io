@@ -1,2 +1,2 @@
-# GendziShimada.github.io
+# Gendzi Shimada
 Мой первый сайт
