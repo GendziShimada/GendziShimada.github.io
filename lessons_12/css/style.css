@@ -1,0 +1,98 @@
+.header {
+font-size: 20px;
+line-height: 1.5;
+margin: 60px auto;
+
+}
+.header span {
+display: block;
+}
+.container, .col-lg-6 {
+
+}
+
+.section {
+padding: 30px 0;
+}
+
+.form {
+border: 5px solid #2727d9;
+padding: 30px 20px;
+}
+
+.form input {
+margin-bottom: 12px;
+}
+
+.form-header, .section-header  {
+font-size: 20px;
+font-weight: 900;
+margin-bottom: 20px;
+}
+
+.form-btn{
+    background-color: #2727d9;
+margin: 12px auto;
+}
+
+    .feature {
+margin: 60px auto;
+    }
+
+.feature p {
+margin-top: 20px;
+}
+.video {
+margin-bottom: 30px;
+}
+
+.feature-box {
+height: 160px;}
+
+
+
+{
+/*
+
+BOOTSTAP
+offset-lg-N - отступ колонками N - количество колонок
+text-uppercase - все заглавные
+<div class="d-grid gap-2">
+                            <button class="btn btn-primary btn-lg form-btn">Получить инструкцию</button>
+                        </div> - для увеличения кнопки на полный размер
+
+
+CSS 
+ertical-align: top; - вертикальное выравнивание по оверхней линии, по осередине middle, bottom по нижней линии и по умолчанию
+text-transform: uppercase; - все заглавные
+font-weight: 900 ; - толщина текста
+line-height: 1.5; - растояние между строчками
+text-align: center; - расположение текста
+float:left ; - обтекаемость (right/left/none-по умолчанию)
+z-index: 1;(1-9999) - 3д или 3 ось координат (работает только с блоками отдельными, не в друг друге)
+left: 50px; - работает только без статика (глобальный отступ)
+opacity: .8; - прозрачность в процентах
+position: absolute; -
+ absolute - игнорирование бокса элементами,
+ static - не мешают другие элементы (по умолчанию),
+ fixed - как абсолют, но фиксируется и прокуручивается вместе с страницей
+ relative - похоже на статик, но работают глобальные отступы
+overflow: auto; - появление прокрутки тескса автоматически
+height: 100px; - высота бокса
+width: 300px; - ширина бокса
+background-color: darkred; - цыет фона
+margin-right: -4px; -решает баг с отступом в горизонтале блоков
+padding: 10px 30px; # №0со всех сторон (сверху, справа, снизу, слева) (сверху и снизу, справа и слева)
+display: inline-block; - уменьшает пространство бокса
+padding-top: 20px; #только с одной стороны /наверху/
+border: 5px solid #000; solid - сплашная, dashed - пунктир, dotted - точками, double - двойная  
+border-top: 10px dotted red ; №1 Так же, как и в отступы/padding top - вверх, left - лево, right - право, bottom - низ
+border-width: 7px;
+border-style: solid;
+borfer- border-color: red ;   - отдельно задаёт (больше власти - перекрывает всё выше)
+margin: 50px; Отступы для блоков (схлопываются)(локальные) (может быть с отриц отступом - №3) (№1 и №0)
+*{box-sizing: border-box;}
+
+*/
+
+}
